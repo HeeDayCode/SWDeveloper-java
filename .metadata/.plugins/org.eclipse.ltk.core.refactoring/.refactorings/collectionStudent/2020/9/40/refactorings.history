@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.kh.student.vo&apos; to &apos;com.kh.student.model.vo&apos;&#x0D;&#x0A;- Original project: &apos;collectionStudent&apos;&#x0D;&#x0A;- Original element: &apos;collectionStudent/src/com.kh.student.vo&apos;&#x0D;&#x0A;- Renamed element: &apos;collectionStudent/src/com.kh.student.model.vo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.kh.student.vo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.kh.student.vo" name="com.kh.student.model.vo" qualified="false" references="true" stamp="1601342404254" textual="false" version="1.0"/>
+</session>

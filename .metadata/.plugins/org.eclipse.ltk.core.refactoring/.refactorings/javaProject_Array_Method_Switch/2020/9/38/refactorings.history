@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kh.array.Array&apos; to &apos;ArrayEx2&apos;&#x0D;&#x0A;- Original project: &apos;javaProject&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.array.Array&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.array.ArrayEx2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Array&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.array{Array.java[Array" matchStrategy="1" name="ArrayEx2" qualified="false" references="true" similarDeclarations="false" stamp="1600327973178" textual="false" version="1.0"/>
+</session>

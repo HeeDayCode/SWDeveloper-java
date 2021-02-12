@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.kh.test.Computer"/>
+<fullyQualifiedTypeName name="com.kh.test.Student"/>
+<fullyQualifiedTypeName name="or.kr.iei.member.vo.Member"/>
+<fullyQualifiedTypeName name="or.kr.iei.member.controller.MemberMgr"/>
+<fullyQualifiedTypeName name="com.kh.vo.Student"/>
+<fullyQualifiedTypeName name="com.kh.controller.StudentMgr"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Silver"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Vvip"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Platinum"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Kh"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Grade"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Gold"/>
+<fullyQualifiedTypeName name="com.kh.point.vo.Vip"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="javax.xml.soap.SOAPException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="com.kh.run.ExceptionTest3"/>
+<fullyQualifiedTypeName name="java.net.SocketException"/>
+<fullyQualifiedTypeName name="java.rmi.server.SocketSecurityException"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+</qualifiedTypeNameHistroy>

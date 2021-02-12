@@ -1,0 +1,12 @@
+package com.kh.run;
+
+public class MyServerSocket {
+	public void start()
+	{
+		//서버의 포트번호 설정
+		int port =7777;
+		
+	}
+	
+	
+}
